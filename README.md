@@ -1,2 +1,1 @@
-# New_Repo
-Created with CodeSandbox
+# Demo React Application using the libsignal-protocol-typescript
